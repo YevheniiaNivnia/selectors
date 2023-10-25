@@ -1,0 +1,24 @@
+* {
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: rgb(49, 113, 168);
+}
+
+.txt-first-line {
+  color: blueviolet;
+}
+
+#verse-puppy {
+  color: rgb(221, 29, 119);
+}
+
+.h2,
+.text {
+  color: red;
+}
+
+a {
+  color: black;
+}
